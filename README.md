@@ -2,7 +2,7 @@
   <table>
     <tr>
       <td>
-        <img src="assets/download.gif" alt="Kaguya" width="200" height="200" style="border-radius: 50%;"/>
+        <img src="assets/download.gif" alt="Kaguya" width="200" height="1600" style="border-radius: 50%;"/>
       </td>
       <td>
         <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=00FF00&center=true&vCenter=true&width=600&height=100&lines=Full+Stack+Developer" alt="Typing SVG" />
