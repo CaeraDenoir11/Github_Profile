@@ -59,4 +59,7 @@ I'm a passionate web developer with a keen interest in creating innovative and u
   <img src="https://komarev.com/ghpvc/?username=CaeraDenoir11&style=flat-square&color=blue" alt="Profile Views"/>
 </div>
 
+<div align="center">
+  <img src="assets/download.gif" alt="Kaguya" width="600"/>
+</div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
