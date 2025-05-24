@@ -62,15 +62,39 @@
 
 ## 📊 GitHub Stats & Trophies
 
+// ... existing code ...
+
+## 📊 GitHub Stats & Trophies
+
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=CaeraDenoir11&theme=onedark&no-frame=false&no-bg=false&margin-w=4&row=1&column=3" alt="GitHub Trophies" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=CaeraDenoir11&theme=onedark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
-  <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=CaeraDenoir11&theme=onedark&hide_border=false" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaeraDenoir11&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-profile-trophy.vercel.app/?username=CaeraDenoir11&theme=onedark&no-frame=false&no-bg=false&margin-w=4&row=1&column=3" alt="GitHub Trophies" />
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=CaeraDenoir11&theme=onedark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaeraDenoir11&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <img src="https://nirzak-streak-stats.vercel.app/?user=CaeraDenoir11&theme=onedark&hide_border=false" alt="GitHub Streak" />
+      </td>
+    </tr>
+  </table>
 </div>
+
+---
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=CaeraDenoir11&style=flat-square&color=blue" alt="Profile Views"/>
+</div>
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ---
 <div align="center">
