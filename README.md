@@ -1,7 +1,14 @@
 <div align="center">
-  <img src="assets/download.gif" alt="Kaguya" width="200" height="200" style="border-radius: 50%;"/>
-  <br/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=2E8B57&center=true&vCenter=true&width=600&height=100&lines=Full+Stack+Developer" alt="Typing SVG" />
+  <table>
+    <tr>
+      <td>
+        <img src="assets/download.gif" alt="Kaguya" width="200" height="200" style="border-radius: 50%;"/>
+      </td>
+      <td>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=00FF00&center=true&vCenter=true&width=600&height=100&lines=Full+Stack+Developer" alt="Typing SVG" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <div align="center">
@@ -16,25 +23,4 @@
   </a>
 </div>
 
-## 🛠️ Tech Stack
-
-// ... existing code ...
-
-## 📊 GitHub Stats & Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=CaeraDenoir11&theme=onedark&no-frame=false&no-bg=false&margin-w=4&row=1&column=3" alt="GitHub Trophies" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=CaeraDenoir11&theme=onedark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
-  <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=CaeraDenoir11&theme=onedark&hide_border=false" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaeraDenoir11&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
-</div>
-
----
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=CaeraDenoir11&style=flat-square&color=blue" alt="Profile Views"/>
-</div>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+// ... rest of the existing code ...
