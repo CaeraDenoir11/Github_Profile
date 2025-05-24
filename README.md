@@ -66,9 +66,24 @@
 
 ## 📊 GitHub Stats & Trophies
 
+// ... existing code ...
+
+## 📊 GitHub Stats & Trophies
+
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=CaeraDenoir11&theme=onedark&no-frame=false&no-bg=false&margin-w=15&row=1&column=3&margin-h=15&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&title=Commits,Repositories,Merges" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=CaeraDenoir11&theme=onedark&no-frame=false&no-bg=false&margin-w=8&row=1&column=3&margin-h=15" alt="GitHub Trophies" />
 </div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CaeraDenoir11&theme=onedark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaeraDenoir11&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=CaeraDenoir11&theme=onedark&hide_border=false" alt="GitHub Streak" />
+</div>
+
+// ... rest of the existing code ...
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=CaeraDenoir11&theme=onedark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
