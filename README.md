@@ -1,11 +1,16 @@
-# 👋 Hi there, I'm Vicser!
+## 🌐 Connect With Me
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/kaguyaaaaaaaaa)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Vicser)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:monsterbaxter@gmail.com)
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=2E8B57&center=true&vCenter=true&width=600&height=100&lines=Aspiring+Web+Developer;Full+Stack+Enthusiast;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=2E8B57&center=true&vCenter=true&width=600&height=100&lines=Full+Stack+Developer;Problem+Solver;Code+Enthusiast" alt="Typing SVG" />
 </div>
 
-## 🚀 About Me
-I'm a passionate web developer with a keen interest in creating innovative and user-friendly applications. My journey in tech is driven by curiosity and a desire to build solutions that make a difference.
+## 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=CaeraDenoir11&theme=onedark&no-frame=false&no-bg=false&margin-w=4&row=1&column=3" alt="GitHub Trophies" />
+</div>
 
 ## 🛠️ Tech Stack
 
@@ -31,6 +36,7 @@ I'm a passionate web developer with a keen interest in creating innovative and u
 ### Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 
 ### Tools & Others
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -49,11 +55,6 @@ I'm a passionate web developer with a keen interest in creating innovative and u
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaeraDenoir11&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 </div>
 
-## 🌐 Connect With Me
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/kaguyaaaaaaaaa)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Vicser)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:monsterbaxter@gmail.com)
-
 ---
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=CaeraDenoir11&style=flat-square&color=blue" alt="Profile Views"/>
@@ -62,4 +63,5 @@ I'm a passionate web developer with a keen interest in creating innovative and u
 <div align="center">
   <img src="assets/download.gif" alt="Kaguya" width="600"/>
 </div>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
