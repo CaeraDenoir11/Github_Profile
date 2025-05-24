@@ -61,12 +61,9 @@
 ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black)
 
 ## 📊 Stats
-// ... existing code ...
-
-## 📊 GitHub Stats & Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=CaeraDenoir11&theme=onedark&no-frame=false&no-bg=false&margin-w=4&row=1&column=3" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=CaeraDenoir11&theme=onedark&no-frame=false&no-bg=false&margin-w=8&row=1&column=3&margin-h=15" alt="GitHub Trophies" />
 </div>
 
 <div align="center">
