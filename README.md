@@ -1,16 +1,15 @@
 <div align="center">
-  <table style="border: none; background: traansparent">
+  <table style="border: none; background: transparent; width: 100%; max-width: 800px; margin: 0 auto;">
     <tr>
-      <td>
-        <img src="assets/download.gif" alt="Kaguya" width="200" height="160" style="border-radius: 50%;"/>
+      <td style="padding: 10px;">
+        <img src="assets/download.gif" alt="Kaguya" style="width: min(200px, 40vw); height: auto; border-radius: 50%; object-fit: cover;"/>
       </td>
-      <td>
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=00FF00&center=true&vCenter=true&width=600&height=100&lines=Full+Stack+Developer" alt="Typing SVG" />
+      <td style="padding: 10px;">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=00FF00&center=true&vCenter=true&width=600&height=100&lines=Full+Stack+Developer" alt="Typing SVG" style="width: min(600px, 90vw); height: auto;"/>
       </td>
     </tr>
   </table>
 </div>
-
 
 <div align="center">
   <a href="https://discord.gg/kaguyaaaaaaaaa">
@@ -83,8 +82,6 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=CaeraDenoir11&style=flat-square&color=blue" alt="Profile Views"/>
 </div>
-<<<<<<< HEAD
-=======
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CaeraDenoir11/CaeraDenoir11/output/github-snake-dark.svg" />
