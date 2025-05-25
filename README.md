@@ -1,8 +1,8 @@
-<div style="display: flex; flex-direction: row; align-items: center; gap: 1rem; text-align: center;">
+<div style="display: flex; flex-direction: row; align-items: center; justify-content: center; flex-wrap: wrap; gap: 1rem; text-align: center;">
   <img 
     src="assets/download.gif" 
     alt="Kaguya" 
-    style="width: 50%; max-width: 100px; height: auto; border-radius: 50%;" 
+    style="width: 100px; height: auto; border-radius: 50%;" 
   />
   
   <img 
