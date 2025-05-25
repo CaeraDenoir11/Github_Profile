@@ -2,7 +2,7 @@
   <img 
     src="assets/download.gif" 
     alt="Kaguya" 
-    style="width: 50%; max-width: 200px; height: auto; border-radius: 50%;" 
+    style="width: 50%; max-width: 100px; height: auto; border-radius: 50%;" 
   />
   
   <img 
