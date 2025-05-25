@@ -56,7 +56,6 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-![RESTful](https://img.shields.io/badge/RESTful-FF6B6B?style=for-the-badge&logo=rest&logoColor=white)
 
 ### Tools & Others
 
@@ -84,3 +83,13 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=CaeraDenoir11&style=flat-square&color=blue" alt="Profile Views"/>
 </div>
+<<<<<<< HEAD
+=======
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CaeraDenoir11/CaeraDenoir11/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CaeraDenoir11/CaeraDenoir11/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
+
+>>>>>>> 22dc3736e9ce1c4d7117100f3365f227a3458a6a
