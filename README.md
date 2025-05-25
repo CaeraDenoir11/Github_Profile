@@ -1,5 +1,5 @@
 <div align="center">
-  <table>
+  <table style="border: none; background: traansparent">
     <tr>
       <td>
         <img src="assets/download.gif" alt="Kaguya" width="200" height="160" style="border-radius: 50%;"/>
