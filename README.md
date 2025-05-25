@@ -1,4 +1,4 @@
-<div style="display: flex; flex-direction: column; align-items: center; gap: 1rem; text-align: center;">
+<div style="display: flex; flex-direction: row; align-items: center; gap: 1rem; text-align: center;">
   <img 
     src="assets/download.gif" 
     alt="Kaguya" 
@@ -92,4 +92,4 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
 
->>>>>>> 22dc3736e9ce1c4d7117100f3365f227a3458a6a
+> > > > > > > 22dc3736e9ce1c4d7117100f3365f227a3458a6a
