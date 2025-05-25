@@ -1,10 +1,10 @@
-<div style="display: flex; flex-direction: row; align-items: center; justify-content: center; flex-wrap: wrap; gap: 1rem; text-align: center;">
+<div style="display: flex; align-items: center; justify-content: center; flex-wrap: wrap; gap: 1rem; text-align: center;">
   <img 
     src="assets/download.gif" 
     alt="Kaguya" 
-    style="width: 100px; height: auto; border-radius: 50%;" 
+    style="width: 40vw; max-width: 200px; height: auto; border-radius: 50%;" 
   />
-  
+
   <img 
     src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=00FF00&center=true&vCenter=true&width=600&height=100&lines=Full+Stack+Developer" 
     alt="Typing SVG" 
