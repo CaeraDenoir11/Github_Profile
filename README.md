@@ -1,6 +1,14 @@
-<div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: center; gap: 1rem; padding: 1rem;">
-  <img src="assets/download.gif" alt="Kaguya" style="width: 50%; height: 160px; border-radius: 50%; object-fit: cover;" />
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=00FF00&center=true&vCenter=true&width=600&height=100&lines=Full+Stack+Developer" alt="Typing SVG" style="max-width: 100%; height: auto;" />
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="assets/download.gif" alt="Kaguya" width="200" height="160" style="border-radius: 50%;"/>
+      </td>
+      <td>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=00FF00&center=true&vCenter=true&width=600&height=100&lines=Full+Stack+Developer" alt="Typing SVG" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 
